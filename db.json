@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "name": "sakshi mishra04",
+      "email": "sakshi12@gmail.com",
+      "phone": "984656565477",
+      "id": 2
+    },
+    {
+      "name": "shiva kumar",
+      "email": "shiva@gmail.com",
+      "phone": "7854213646",
+      "id": 3
+    },
+    {
+      "name": "kranthi reddy",
+      "email": "kranthi@gmail.com",
+      "phone": "9848646465",
+      "id": 15
+    },
+    {
+      "name": "sandeep",
+      "email": "sandeep@gamil.com",
+      "phone": "7854165",
+      "id": 16
+    }
+  ]
+}

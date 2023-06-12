@@ -13,8 +13,8 @@ function App() {
     <Routes>
       <Route exact path='/'  element={ <Employee />} />
       <Route exact path='/employee/create/'  element={<EmpCreate/>} />
-      <Route exact path='/employee/edit/:id'  element={<EmpEdit/>} />
-      <Route exact path='/employee/details/:id'  element={<EmpDetails/>} />
+      <Route exact path='/employee/edit/id'  element={<EmpEdit/>} />
+      <Route exact path='/employee/details/id'  element={<EmpDetails/>} />
       <Route exact path='/*'  element={<h1>Page Not Found</h1>} />
     </Routes>
     </Router>
